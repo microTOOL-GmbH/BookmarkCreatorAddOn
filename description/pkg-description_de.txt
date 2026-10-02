@@ -1,0 +1,14 @@
+Textmarken erstellen für LibreOffice Writer.
+
+Liest ein microtool-JSON-Payload aus der Zwischenablage und fügt eine benannte
+Textmarke zusammen mit einem Benutzerfeld, das das Payload-XML speichert,
+in einem einzigen Schritt ein.
+
+Funktionen:
+- Zwischenablage-gesteuert: kopiert ein microtool-Textmarken-Payload und fügt es sofort ein
+- Unterstützt Text-, Bild- und Tabelleninhalte in der Textmarke
+- Aktualisiert vorhandene Textmarken und Benutzerfelder direkt
+- Verfügbar über das Menü „Extras": „Textmarke einfügen" und die microTOOL-Textmarken-Symbolleiste
+- Funktioniert mit LibreOffice Writer-Dokumenten (.odt, .docx)
+
+Autor: microTOOL GmbH

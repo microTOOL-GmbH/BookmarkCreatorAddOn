@@ -1,0 +1,14 @@
+Create Bookmark Addin for LibreOffice Writer.
+
+Reads a microtool JSON payload from the clipboard and inserts a named
+bookmark together with a User Field that stores the payload XML —
+all in a single operation.
+
+Features:
+- Clipboard-driven: copies a microtool bookmark payload and inserts it instantly
+- Supports text, image, and table content inside the bookmark
+- Updates existing bookmarks and user fields in place
+- Available via Tools menu: "Insert Bookmark" and the microTOOL Bookmarks toolbar
+- Works with LibreOffice Writer documents (.odt, .docx)
+
+Author: microTOOL GmbH
