@@ -1,4 +1,4 @@
-Create Bookmark Addin for LibreOffice Writer.
+microTOOL Bookmark Extension for LibreOffice Writer.
 
 Reads a microtool JSON payload from the clipboard and inserts a named
 bookmark together with a User Field that stores the payload XML —

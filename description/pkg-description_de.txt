@@ -1,4 +1,4 @@
-Textmarken erstellen für LibreOffice Writer.
+microTOOL Bookmark Extension für LibreOffice Writer.
 
 Liest ein microtool-JSON-Payload aus der Zwischenablage und fügt eine benannte
 Textmarke zusammen mit einem Benutzerfeld, das das Payload-XML speichert,
