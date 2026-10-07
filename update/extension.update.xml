@@ -3,7 +3,7 @@
   <!-- Unique extension identifier matching description.xml -->
   <identifier value="de.microtool.writer.bookmarkcreator" />
   <!-- Version number of the new update -->
-  <version value="1.0.112" />
+  <version value="1.0.113" />
   <!-- Display Name shown in the update list -->
   <display-name>
     <name lang="en">microTOOL Bookmark Extension</name>
