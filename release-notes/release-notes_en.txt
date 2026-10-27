@@ -1,14 +1,14 @@
-Create Bookmark Addin for LibreOffice Writer.
+microTOOL Bookmark Extension
 
-Reads a microtool JSON payload from the clipboard and inserts a named
-bookmark together with a User Field that stores the payload XML —
-all in a single operation.
+Insert bookmarks for documents and document templates from objectiF RM / objectiF RPM into LibreOffice Writer with a single click.
 
-Features:
-- Clipboard-driven: copies a microtool bookmark payload and inserts it instantly
-- Supports text, image, and table content inside the bookmark
-- Updates existing bookmarks and user fields in place
-- Available via Tools menu: "Insert Bookmark" and the microTOOL Bookmarks toolbar
-- Works with LibreOffice Writer documents (.odt, .docx)
+This extension helps you prepare documents and templates for document generation in objectiF RM / objectiF RPM. Bookmarks define where in the document specific content will be inserted later, such as text, images or tables.
+
+1. In objectiF RM / objectiF RPM, create the bookmark you need in the "Edit Bookmarks" dialog and copy it to the clipboard.
+2. In Writer, place the cursor at the position in the template where the content should appear.
+3. Click "Insert Bookmark" in the toolbar (or use the menu Tools > Add-Ons > Insert Bookmark).
+
+The bookmark is inserted with all its settings. Existing bookmarks are updated automatically. When you have finished editing, save the document in objectiF RM / objectiF RPM using the open "Edit Bookmarks" dialog.
 
 Author: microTOOL GmbH
+

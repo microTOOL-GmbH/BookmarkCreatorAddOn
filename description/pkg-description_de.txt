@@ -1,14 +1,13 @@
-microTOOL Bookmark Extension für LibreOffice Writer.
+microTOOL Bookmark Extension
 
-Liest ein microtool-JSON-Payload aus der Zwischenablage und fügt eine benannte
-Textmarke zusammen mit einem Benutzerfeld, das das Payload-XML speichert,
-in einem einzigen Schritt ein.
+Textmarken für Dokumente und Dokumentvorlagen aus objectiF RM / objectiF RPM mit einem Klick in LibreOffice Writer einfügen.
 
-Funktionen:
-- Zwischenablage-gesteuert: kopiert ein microtool-Textmarken-Payload und fügt es sofort ein
-- Unterstützt Text-, Bild- und Tabelleninhalte in der Textmarke
-- Aktualisiert vorhandene Textmarken und Benutzerfelder direkt
-- Verfügbar über das Menü „Extras": „Textmarke einfügen" und die microTOOL-Textmarken-Symbolleiste
-- Funktioniert mit LibreOffice Writer-Dokumenten (.odt, .docx)
+Mit dieser Erweiterung bereiten Sie Dokumente und Vorlagen für die Dokumentgenerierung in objectiF RM / objectiF RPM vor. Textmarken legen fest, an welcher Stelle im Dokument später welche Inhalte eingesetzt werden, zum Beispiel Texte, Bilder oder Tabellen.
+
+1. Legen Sie in objectiF RM / objectiF RPM im Dialog „Textmarken bearbeiten“ die gewünschte Textmarke an und kopieren Sie sie in die Zwischenablage. 
+2. Setzen Sie in Writer den Cursor an die Stelle der Vorlage, an der der Inhalt erscheinen soll. 
+3. Klicken Sie in der Symbolleiste auf „Textmarke einfügen“ (alternativ über das Menü Extras > Plug-ins > Textmarke einfügen). 
+
+Die Textmarke wird mit allen Einstellungen eingefügt. Bereits vorhandene Textmarken werden dabei automatisch aktualisiert. Speichern Sie nach der Bearbeitung das Dokument in objectiF RM / objectiF RPM über den geöffneten Dialog „Textmarken bearbeiten“.
 
 Autor: microTOOL GmbH
